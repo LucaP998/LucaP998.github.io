@@ -60,6 +60,11 @@ mark {
 	color: inherit;
 }
 
+img {
+	width: 50%;
+	height: auto;
+}
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
