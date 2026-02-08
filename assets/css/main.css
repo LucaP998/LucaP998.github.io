@@ -4692,3 +4692,7 @@ input, select, textarea {
 		}
 
 	}
+
+html {
+	font-size: 100%;
+}
